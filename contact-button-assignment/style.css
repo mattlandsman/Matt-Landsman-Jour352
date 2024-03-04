@@ -1,0 +1,39 @@
+/*
+MY COLOR PALETTE
+Color 1 - #0A1128
+Color 2 - #001F54
+Color 3 - #034078
+Color 4 - #1282A2
+Color 5 - #FEFCFB
+*/
+
+body {
+    background-color: #0a1128;
+    text-align: center;
+}
+
+button {
+    background-color: #fefcfb;
+
+    font-family: "Madimi One", sans-serif;
+    color: red;
+    width: 200px;
+    padding: 20px;
+    margin: 50px;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #1282a2;
+}
+
+h1 {
+    font-family: "Ojuju", sans-serif;
+    color: white;
+}
+
+h2 {
+    font-family: "Madimi One", sans-serif;
+    color: white;
+}
