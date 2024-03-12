@@ -1,3 +1,48 @@
-img {width: 50%;
+
+@media{
     
+
+
+
+img {
+    width: 60%;  
+    padding: 0px;
+     border-radius: 40%;
+        margin: 40px
+}
+h1{
+    padding: 40px;
+    border-radius: 40%;
+        margin: 40px;
+}
+    h2{
+        font-family: "Quicksand", sans-serif;
+    }
+    
+    #nav {
+        margin:auto;
+        text-align: center;
+        background-color: #050a30;
+        color: #f4f6fc;
+    }
+    
+    
+    
+    
+    #topper{
+      background-color: #5cb6f9;
+        
+        
+        
+    } 
+    
+    
+}
+@media (min-width:576px) {
+    
+    h1{
+    font-size:70px;
+        color: #12229d;
+        font-family: "Shrikhand", serif;
+}
 }
