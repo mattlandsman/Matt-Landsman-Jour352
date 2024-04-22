@@ -1,0 +1,40 @@
+
+/* color pallete
+ * Scorpion- #685A63
+ */
+img {
+    width:100%;
+}
+
+#topper{
+    background-image: url(ezgif-5-d090712361.jpg);
+    background-size:cover;
+    background-color:#685A63;
+    background-position: 10% 10%;*/
+    height: 400px;
+    /*background-color:#685A63;*/
+}
+
+h1{
+    padding: 0px 0px 300px 0px;
+    margin: 10px;
+}
+.caption {
+    font-size: 12px;
+}
+
+.date {
+    text-align: center;
+}
+
+#content {
+    width: 60px;
+    
+}
+.inlineimage{
+    width:100%
+}
+
+@media (min-width:576px)
+    
+    @media(min-width: 902px)
