@@ -39,12 +39,14 @@
     .caption {
         font-size: 12px;
         color: #003049;
-   font-family: "Poetsen One", sans-serif; }
+        font-family: "Poetsen One", sans-serif;
+    }
 
     .date {
         text-align: center;
         color: #003049;
-    font-family: "Poetsen One", sans-serif;}
+        font-family: "Poetsen One", sans-serif;
+    }
 
     h2 {
         font-family: "Poetsen One", sans-serif;
@@ -56,8 +58,8 @@
         margin: auto;
         font-family: "Playfair Display", serif;
     }
-   .byline {font-family: "Roboto Condensed", sans-serif;
-        
+    .byline {
+        font-family: "Roboto Condensed", sans-serif;
     }
     .inlineimage {
         width: 100%;
