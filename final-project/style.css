@@ -1,40 +1,71 @@
-
 /* color pallete
  * Scorpion- #685A63
  */
-img {
-    width:100%;
+@media {
+    img {
+        width: 100%;
+    }
+
+    #topper {
+        background-image: url(ezgif-5-d090712361.jpg);
+        background-size: cover;
+        background-position: 10% 10%;
+    }
+
+    .attribution {
+        color: white;
+        font-family: "Roboto Condensed", sans-serif;
+    }
+
+    h1 {
+        padding: 0px 0px 500px 0px;
+        margin: 10px;
+        font-family: "Playfair Display", serif;
+    }
+
+    .pullquote {
+        background-color: #685a63;
+        padding: 10px 10px 10px 10px;
+        margin: 10px 0px 10px 0px;
+        border: 3px solid black;
+        border-top: 5px solid white;
+        color: white;
+        font-family: "Roboto Condensed", sans-serif;
+    }
+    .quote {
+        font-size: 30px;
+    }
+
+    .caption {
+        font-size: 12px;
+        color: #003049;
+   font-family: "Poetsen One", sans-serif; }
+
+    .date {
+        text-align: center;
+        color: #003049;
+    font-family: "Poetsen One", sans-serif;}
+
+    h2 {
+        font-family: "Poetsen One", sans-serif;
+        color: red;
+    }
+
+    #content {
+        width: 95%;
+        margin: auto;
+        font-family: "Playfair Display", serif;
+    }
+   .byline {font-family: "Roboto Condensed", sans-serif;
+        
+    }
+    .inlineimage {
+        width: 100%;
+    }
 }
 
-#topper{
-    background-image: url(ezgif-5-d090712361.jpg);
-    background-size:cover;
-    background-color:#685A63;
-    background-position: 10% 10%;*/
-    height: 400px;
-    /*background-color:#685A63;*/
+@media (min-width: 576px) {
+    #content {
+        width: 60%;
+    }
 }
-
-h1{
-    padding: 0px 0px 300px 0px;
-    margin: 10px;
-}
-.caption {
-    font-size: 12px;
-}
-
-.date {
-    text-align: center;
-}
-
-#content {
-    width: 60px;
-    
-}
-.inlineimage{
-    width:100%
-}
-
-@media (min-width:576px)
-    
-    @media(min-width: 902px)
